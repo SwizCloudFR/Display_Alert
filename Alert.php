@@ -22,7 +22,7 @@ class Error {
 
 	public static function Primary($error)
 	{
-		return "<div class='alert alert-danger'>{$error}</div>";
+		return "<div class='alert alert-primary'>{$error}</div>";
 	}
 
 }
