@@ -1,3 +1,5 @@
+<?php
+
 class Error {
 
 	public static function Success($error)
@@ -26,3 +28,5 @@ class Error {
 	}
 
 }
+
+?>
